@@ -1,0 +1,20 @@
+# Deepwick for Atuin
+[theme]
+name = "deepwick"
+
+[colors]
+AlertInfo = "#4FC1FF"
+AlertWarn = "#DCDCAA"
+AlertError = "#F44747"
+Annotation = "#6E7899"
+Base = "#D4D4D4"
+Guidance = "#7A86A8"
+Important = "#569CD6"
+Title = "#569CD6"
+Muted = "#6E7899"
+SyntaxCommand = "#DCDCAA"
+SyntaxFlag = "#9CDCFE"
+SyntaxString = "#CE9178"
+SyntaxVariable = "#9CDCFE"
+SyntaxOperator = "#D4D4D4"
+SyntaxComment = "#7A86A8"
