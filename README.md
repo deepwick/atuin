@@ -35,7 +35,7 @@ name = "deepwick"
 - An unknown key makes Atuin ignore the whole theme; check with
   `[theme] debug = true`.
 
-Tested with Atuin 18.22.0.
+Tested with Atuin 18.24.1.
 
 ## License
 
